@@ -1,0 +1,3 @@
+timestamp,elapsed_min,chamber_c,internal_c,air_inlet,air_outlet,smoke,action_observation
+2026-07-19 04:30,0,120-130,,initial,initial,inicio,Entrada de la pieza al asador
+2026-07-19 05:00,30,125,,20%,20%,poco humo blanco; aroma agradable,Sin adición de carbón o madera

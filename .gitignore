@@ -1,0 +1,10 @@
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Temporales
+*.tmp
+*.bak
+
+# Opcional: originales demasiado pesados
+# lab/**/photos-originals/*
