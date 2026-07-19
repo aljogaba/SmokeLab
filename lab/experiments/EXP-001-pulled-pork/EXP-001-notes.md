@@ -1,55 +1,53 @@
-# EXP-001 — Pulled pork, ensayo inicial
+# EXP-001 — Pulled pork
 
-## Identificación
+**Fecha:** 19 de julio de 2026  
+**Autor:** Alberto Jorge Galindo Barboza  
+**Estado:** Completado
 
-- Fecha: 2026-07-19
-- Inicio: 04:30 h
-- Estado: En curso
-- Corte: Espaldilla de cerdo sin hueso
-- Peso: 4.00 kg
-- Cámara objetivo: 120–130 °C
+## Diseño
 
-## Tratamiento previo
+- Corte: espaldilla de cerdo sin hueso
+- Peso inicial: 4.00 kg
+- Marinado: cerveza Vienna oscura y pimienta, aproximadamente 12 h en refrigeración
+- Binder: mostaza
+- Rub: ajo, cebolla, paprika, sal, cayena y poco azúcar mascabado; cantidades no registradas
+- Asador: rectangular con tapa, cocción indirecta
+- Combustible: carbón de mezquite, briquetas de apoyo y madera de manzano
+- Ventilación inicial: entrada 20 %, salida 20 %
 
-- Marinado desde las 16:00 h del día anterior.
-- Duración aproximada: 12 horas.
-- Marinada: cerveza Vienna oscura y pimienta.
-- Reposo fuera del refrigerador: aproximadamente 30 minutos.
-- Superficie secada antes del binder.
-- Binder: mostaza.
-- Rub: ajo, cebolla, paprika, sal, pimienta de Cayena y poca azúcar mascabado.
-- Las cantidades del rub no fueron pesadas.
+## Resultado principal
 
-## Equipo
+- Entrada al asador: 04:30 h
+- Envoltura: 10:30 h, 75 °C internos
+- Retiro: 13:15 h, 93 °C internos, sonda con resistencia mínima
+- Deshebrado: 15:10 h
+- Cocción total: 8 h 45 min
+- Reposo y mantenimiento caliente: 1 h 55 min
+- Peso cocido: no determinado
 
-- Asador rectangular con tapa.
-- Cocción indirecta.
-- Termómetro integrado en la tapa.
-- Combustible: carbón de mezquite.
-- Madera: trozos de manzano.
-- Bandeja inferior: marinada reservada y vino blanco.
+## Evaluación
 
-## Limitaciones
+- Terneza: 10/10
+- Jugosidad: 9/10
+- Aroma: 10/10
+- Sabor: 10/10
+- Humo: suave, limpio, persistente y no dominante
+- Bark: uniforme, adherido, no crujiente después del reposo, con excelente sabor
+- Jugo adicional: no fue necesario
 
-- No se contó con termómetro interno al comenzar.
-- El rub no se cuantificó.
-- El termómetro de cámara se encuentra en la tapa.
+## Rendimiento
 
-## Línea de tiempo
+Se sirvieron 6 personas y quedó una cantidad estimada para aproximadamente 8 porciones adicionales. No se calculó rendimiento gravimétrico.
 
-| Hora | Tiempo | Cámara | Ventilación | Humo | Acción / observación |
-|---|---:|---:|---|---|---|
-| 04:30 | 0:00 | 120–130 °C | Configuración inicial | Inicio | Entrada de la pieza al asador |
-| 05:00 | 0:30 | 125 °C | Entrada 20%; salida 20% | Poco humo blanco, aroma agradable | Sin intervención |
+## Variables externas
 
-## Resultado
+El ambiente fue frío al encender; durante el amanecer descendió la temperatura de cámara. Posteriormente el sol aumentó la carga térmica y fue necesario volver a regular. Más tarde ocurrió lluvia breve. El proceso se interpretó como un sistema carne–asador–combustible–ambiente–operador.
 
-Pendiente.
+## Mejoras de medición
 
-## Evaluación sensorial
-
-Pendiente.
-
-## Conclusiones
-
-Pendiente.
+1. Pesar el rub y registrar g/kg.
+2. Colocar sonda interna desde el inicio.
+3. Medir cámara junto a la carne.
+4. Registrar temperatura ambiental, viento, sol y precipitación.
+5. Pesar el producto cocido y la carne deshebrada.
+6. Registrar masa o consumo de combustible.

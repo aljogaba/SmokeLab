@@ -1,3 +1,19 @@
-timestamp,elapsed_min,chamber_c,internal_c,air_inlet,air_outlet,smoke,action_observation
-2026-07-19 04:30,0,120-130,,initial,initial,inicio,Entrada de la pieza al asador
-2026-07-19 05:00,30,125,,20%,20%,poco humo blanco; aroma agradable,Sin adición de carbón o madera
+﻿fecha,hora,tiempo_transcurrido,temp_camara_c,temp_interna_c,ventilacion,humo,accion_observacion
+2026-07-19,04:00,Preparación,,,,,Encendido del asador; ambiente frío
+2026-07-19,04:30,0:00,120-130,,Configuración inicial,Inicio,Entrada de la pieza
+2026-07-19,05:00,0:30,125,,20/20,Blanco ligero,Sin intervención; aroma agradable
+2026-07-19,05:30,1:00,125,,20/20,Blanco suave,Sistema estable
+2026-07-19,06:00,1:30,132,,20/20,Blanco agradable,Se añaden 2 briquetas
+2026-07-19,06:30,2:00,135,,20/20,Suave,Se añade un trozo de manzano
+2026-07-19,07:00,2:30,125,,20/20,Suave,Sin intervención
+2026-07-19,07:30,3:00,130,,20/20,Suave,Sin intervención
+2026-07-19,08:00,3:30,125,,20/20,Muy suave,Se añaden 2 briquetas; goteo visible
+2026-07-19,08:30,4:00,125,,20/20,,Sin intervención registrada
+2026-07-19,09:00,4:30,125,,20/20,,Supervisión compartida
+2026-07-19,09:30,5:00,125,,20/20,,Temperatura estable
+2026-07-19,10:30,6:00,125,75,,,Bark seco y firme; envoltura en aluminio
+2026-07-19,11:45,7:15,150,83,,Sin humo añadido,Fase final envuelta
+2026-07-19,12:30,8:00,160,90,,Sin humo,Paquete sellado; aroma excelente
+2026-07-19,13:15,8:45,,93,,,Sonda entra fácil; retiro
+2026-07-19,14:00,Reposo 0:45,,90,,,Apertura parcial; mantenimiento en olla
+2026-07-19,15:10,Reposo 1:55,,,,,Deshebrado y servicio

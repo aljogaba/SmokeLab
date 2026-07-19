@@ -1,11 +1,8 @@
-attribute,score_1_to_5,notes
-appearance,,
-bark,,
-aroma,,
-smoke_intensity,,
-smoke_balance,,
-seasoning,,
-juiciness,,
-tenderness,,
-pull_apart_ease,,
-overall_acceptance,,
+﻿atributo,puntuacion_sobre_10,observacion
+Terneza,10,"Se desbarataba sola; fibras largas, suaves y definidas"
+Jugosidad,9,"Muy jugosa, equilibrada al mezclar; no seca ni caldosa"
+Aroma,10,"Carne, humo y matiz dulzón equilibrado"
+Sabor,10,Humo suave persistente; sazón balanceada; sin amargor
+Bark,,"Uniforme, adherido, no crujiente tras el reposo, excelente sabor"
+Sal,,Baja pero adecuada; permitió distinguir todos los sabores
+Aceptación familiar,,Excelente
