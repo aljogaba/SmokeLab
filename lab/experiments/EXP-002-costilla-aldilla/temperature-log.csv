@@ -1,0 +1,8 @@
+hora,tiempo,camera_c,temperatura_interna,accion_observacion
+10:45,0:00,150,,"Inicio; costillas nivel inferior; aldillas nivel superior; humo de manzano"
+13:00,2:15,~150,"aldillas ~70 C; costillas ~78 C","Rub fijado; fin de fase principal de humo; envolver"
+13:00,2:15,, ,"Aluminio individual + ~100 mL vino blanco por paquete"
+~14:15,3:30,"135-150","aldilla ~78-80 C","Continuacion envuelta; recuperar camara a 150 C"
+posterior,,directo,"una pieza ~88 C","Paquetes cerrados sobre calor directo para acelerar"
+servicio,,directo breve,,"Mitad natural; mitad BBQ hasta burbujeo/brillo/fijacion"
+post-servicio,+20-25 min,directo bajo,,"Porcion de aldilla: exterior tostado; interior jugoso; mayor terneza percibida"
