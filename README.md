@@ -4,6 +4,14 @@
 
 Sitio estático y bitácora pública de experimentos de barbecue.
 
+## Proyecto personal
+
+**Smoke Lab es un proyecto personal de Alberto Jorge Galindo Barboza**, desarrollado como espacio de experimentación, documentación y aprendizaje alrededor del barbecue, la cocción lenta, el fuego y la técnica culinaria.
+
+Forma parte de sus intereses personales y no de su actividad académica, institucional ni de los proyectos científicos que mantiene en otros repositorios.
+
+El propósito del sitio es registrar cada cocción como un experimento reproducible en su propia escala: materiales, variables, decisiones, resultados, errores y mejoras.
+
 ## Estructura
 
 ```text
@@ -52,3 +60,9 @@ Configura la publicación desde:
 - carpeta: `/(root)`
 
 El archivo `.nojekyll` evita procesamiento innecesario de Jekyll.
+
+## Autoría y derechos
+
+Autor: **Alberto Jorge Galindo Barboza**.
+
+Los textos, protocolos, fotografías, diseño, identidad visual y demás materiales originales de Smoke Lab se mantienen bajo derechos reservados salvo indicación expresa en contrario. Consulte `LICENSE` para los términos de uso.
